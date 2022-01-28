@@ -15,7 +15,7 @@ The event and the servers are run by [Mike](https://github.com/mikekasprzak) and
 
 The sources for information website (`ludumdare.com`) can be found here in the [/ludumdare.com](https://github.com/LudumDare/ludumdare.com) repository. It's a static website powered by [Zola](https://www.getzola.org/), built using [Tera](https://tera.netlify.app/) templates (very similar to other tech, but Mike is a Rust fan). If you'd like to contribute to the FAQ, fix a typo in the rules, that's where'd you go.
 
-The sources for the event website (`ldjam.com`) have been spun-off into its own project called [**Jammer Core**](https://github.com/JammerCore). If you're familiar with the old `ludumdare/ludumdare` source code, or its toolchain DairyBox, you can find both over there. It's built on a PHP backend and a JavaScript frontend. We're committed to supporting what's there, but I'd like us to explore switching from JavaScript to TypeScript, and rewriting some of the PHP in Rust. 🦀
+The sources for the event website (`ldjam.com`) have been spun-off into its own project called [**Jammer Core**](https://github.com/JammerCore). If you're familiar with the old `ludumdare/ludumdare` source code, or its toolchain DairyBox, you can find both over there. It's built on a PHP backend and a JavaScript frontend. We're committed to supporting what's there, but in the future I'd like us to explore switching from JavaScript to TypeScript, and rewriting some of the PHP code in Rust. 🦀
 
 For the archivists, you can find [sources](https://github.com/LudumDare/ludumdare-2008/) for the WordPress website we ran in the 2000's until mid 2010. It's unsupported, but you can view the old website [here](http://ludumdare.com/compo).
 
