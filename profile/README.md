@@ -13,7 +13,7 @@ Ludum Dare runs on two websites:
 
 The event and the servers are run by [Mike](https://github.com/mikekasprzak) and the [Interactive Snacks](https://github.com/InteractiveSnacks) team.
 
-The sources for information website (`ludumdare.com`) can be found here in the [/ludumdare.com](https://github.com/LudumDare/ludumdare.com) repository. It's a static website powered by [Zola](https://www.getzola.org/), built using [Tera](https://tera.netlify.app/) templates (very similar to other tech, but Mike is a Rust fan). If you'd like to contribute to the FAQ, fix a typo in the rules, that's where'd you go.
+The sources for information website (`ludumdare.com`) can be found here in the [/ludumdare.com](https://github.com/LudumDare/ludumdare.com) repository. It's a static website powered by [Zola](https://www.getzola.org/), built using [Tera](https://tera.netlify.app/) templates (very similar to other tech, but Mike is a Rust fan). Pages are written and styled using markdown. If you'd like to contribute to the FAQ, fix a typo in the rules, that's where'd you go.
 
 The sources for the event website (`ldjam.com`) have been spun-off into its own project called [**Jammer Core**](https://github.com/JammerCore). If you're familiar with the old `ludumdare/ludumdare` source code, or its toolchain DairyBox, you can find both over there. It's built on a PHP backend and a JavaScript frontend. We're committed to supporting what's there, but in the future I'd like us to explore switching from JavaScript to TypeScript, and rewriting some of the PHP code in Rust. 🦀
 
