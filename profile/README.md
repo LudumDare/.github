@@ -4,7 +4,6 @@ If you're a user, you can find our support page here: https://ludumdare.com/supp
 
 If you're looking to help-out by reporting a bug or contributing a change or fix, then you've come to the right place! :smile:
 
-If you've been here before and things look different, don't be alarmed! Everything is still here (and more), we've just reorganized.
 
 ## The Ludum Dare websites
 Ludum Dare runs on two websites:
