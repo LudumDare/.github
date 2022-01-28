@@ -1,7 +1,12 @@
 Ludum Dare is an online event where we challenge you to create a game from scratch in a weekend. We've been around since 2002.
 
+If you're a user, you can find our support page here: https://ludumdare.com/support
+
+If you're looking to help-out by reporting a bug or contributing a change or fix, then you've come to the right place! :smile:
+
 If you've been here before and things look different, don't be alarmed! Everything is still here (and more), we've just reorganized.
 
+## The Ludum Dare websites
 Ludum Dare runs on two websites:
 
 * [ludumdare.com](https://ludumdare.com) - the information website (Rules, FAQ, etc)
