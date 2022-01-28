@@ -19,4 +19,6 @@ The sources for the event website (`ldjam.com`) have been spun-off into its own 
 
 For the archivists, you can find [sources](https://github.com/LudumDare/ludumdare-2008/) for the WordPress website we ran in the 2000's until mid 2010. It's unsupported, but you can view the old website [here](http://ludumdare.com/compo).
 
+Thanks for checking us out!
+
 _- Mike Kasprzak, the Ludum Dare guy_
