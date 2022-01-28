@@ -1,14 +1,18 @@
-## Ludum Dare
+Ludum Dare is an online event where we challenge you to create a game from scratch in a weekend. We've been around since 2002.
 
-More details to follow
+If you've been here before and things look different, don't be alarmed! Everything is still here (and more), we've just reorganized.
 
-<!--
+Ludum Dare runs on two websites:
 
-**Here are some ideas to get you started:**
+* [ludumdare.com](https://ludumdare.com) - the information website (Rules, FAQ, etc)
+* [ldjam.com](https://ldjam.com) - the event website (theme selection, user blogs, submissions, and voting)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The event and the servers are run by [Mike](https://github.com/mikekasprzak) and the team at [Interactive Snacks](https://github.com/InteractiveSnacks).
+
+The sources for information website (`ludumdare.com`) can be found here in the [/ludumdare.com](https://github.com/LudumDare/ludumdare.com) repository. It's a static website powered by the Zola static website generator, and is built using Tera templating (which is similar to other tech, but Mike is a Rust fan). If you'd like to contribute to the FAQ, fix a typo in the rules, that's where'd you go.
+
+The sources for the event website (`ldjam.com`) have been spun-off into its own project called [**Jammer Core**](https://github.com/JammerCore). If you're familiar with the old `ludumdare/ludumdare` source code, or its toolchain DairyBox, you can find both over there. It's built on a PHP backend and a JavaScript frontend. We're committed to supporting what's there, but I'd like us to explore switching from JavaScript to TypeScript, and rewriting some of the PHP in Rust. 🦀
+
+For the archivists, you can find [sources](https://github.com/LudumDare/ludumdare-2008/) for the WordPress website we ran in the 2000's until mid 2010.
+
+_- Mike Kasprzak, the Ludum Dare guy_
